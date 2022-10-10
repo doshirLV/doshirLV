@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raj Doshi.
+- 👋 Hi, I’m Raj.
 - 👀 I’m interested in DNA Methylation and NanoPore technology.
 - 🌱 I’m currently learning how to analyze Illumina HumanMethylation450 BeadChip array data. 
 - 💞️ I’m looking to collaborate on sleep research. 
